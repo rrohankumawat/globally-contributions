@@ -8,14 +8,6 @@ This project helps beginners learn how to contribute to open source by making a 
 
 ---
 
-![GitHub forks](https://img.shields.io/github/forks/rrohankumawat/first-contributions-rohan?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/rrohankumawat/first-contributions-rohan?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/rrohankumawat/first-contributions-rohan?style=social)
-
----
-
----
-
 ## 📌 How to Contribute?
 
 1. Fork this repository
