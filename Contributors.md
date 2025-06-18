@@ -1,2 +1,2 @@
 # Contributors
-- [Rohan Kumawat] Welcome everyone
+- [Rohan Kumawat] (https://github.com/rrohankumawat) Welcome everyone
